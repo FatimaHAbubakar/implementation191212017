@@ -1,0 +1,105 @@
+.back {
+    background-color: rgb(240, 239, 227);
+
+}
+
+.container {
+    border: 20px;
+    padding: auto;
+    margin:auto;
+    height: auto;
+    width: 30%;
+    border-color: rgb(231, 213, 206);
+background-color: wheat;
+
+}
+
+}
+table{
+	width: 50%;
+	margin: 30px auto;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+thead {
+    font-size: 1.9em;
+    color: red;
+    line-height: 1.9em;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    border-bottom-color: burlywood;
+    text-align: center;
+    text-transform: capitalize;
+    u
+
+
+}
+.btn{
+	padding: 10px;
+	font-size: 15px;
+	color: red;
+	background: #5f9ea0;
+	border: none;
+	border-radius: 5px;
+
+}
+
+
+
+th, td{
+	border: none;
+	height: 30px;
+	padding: 2px; 
+	color: red;
+}
+
+.input-group{
+	margin: 10px 0px 10px 0px;
+}
+.input-group{
+	display: block;
+	text-align: center;
+	margin: 3px;
+}
+.input-group{
+	height: 80px;
+	width:1000px;
+	padding: 10px 10px;
+	font-size: 16px;
+	border-radius: 10px;
+	border: 1px solid rgb(233, 230, 210);
+	line-height: 1.5rem;
+	text-align: center;
+
+}
+
+.input-group label{
+	color: red;
+}
+.field-form {
+    width: 40%;
+    height: 10%;
+}
+a {
+    letter-spacing: 2px;
+    padding-left: 0;
+    padding-right: 0;
+    padding: 10px 0;
+    font-weight: 400;
+    font-size: 1.2em;
+    margin: 0 1em;
+    color: #60606d;
+    text-transform: uppercase;
+}
+a:hover {
+    color: #ec1c24;
+}
+
+.msg{
+	margin: 30px auto;
+	padding: 10px;
+	border-radius: 5px;
+	color:#60606d;
+	text-align: center;
+}
