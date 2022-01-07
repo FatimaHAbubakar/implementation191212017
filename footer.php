@@ -3,25 +3,28 @@
     <head>
         <title>footer</title>
         <style>
-            .containerf {
+            .containerf{
   
-  position: relative;
+  position: absolute;
 }
 
 .child {
-  width: 100%;
   height: auto;
-  background-color: red;
-  /* Center vertically and horizontally */
+  background-color: #f0efd8;
+  text-align: center;
+  width: 100%;
   position: absolute;
+
+  /* Center vertically and horizontally */
+  
   margin: top;
 
    /* apply negative top and left margins to truly center the element */
 }
             ul {
   list-style-type: none;
-  margin: 0 auto;
-  padding: 0;
+  margin: 0;
+  padding: 0 0;
   overflow: hidden;
   background-color: #f0efd8;
   display: inline-block;
@@ -44,7 +47,7 @@ li a {
 
 li a:hover {
   background-color:wheat;
-  color: red;
+  color: #red;
 }
 h2 a{
 display: inline-block;
@@ -58,17 +61,17 @@ display: inline-block;
     background-color: #f0efd8;
   
 }
-        </style>
-        <link rel="stylesheet" href="bootstrap1.css">
-       <link rel="stylesheet" href="font-great1.css">
-       <link rel="stylesheet" href="style1.css">
+    </style>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="font-great.css">
+    <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <div>
             <div class="child">
     <div>
-                <h2><a href="index.php">KAYA
-                    </a> </h2>
+                <h3><a href="index.html">KAYA
+                    </a> </h3>
             
             </div>
         <div>
@@ -78,11 +81,6 @@ display: inline-block;
                   <li><a href="index.html"><span aria-hidden="true"></span> Home</a></li>
   
                    <li> <a href="http://localhost/implementation191212017/aboutus.php"><span aria-hidden="true"></span> About</a></li>
-   
-                  <li>  <a href="http://localhost/implementation191212017/login.php"><span aria-hidden="true"></span> login</a></li>
-                  <li>  <a href="http://localhost/implementation191212017/register.php"><span aria-hidden="true"></span> register</a></li>
-                  
-   
                    <li> <a href="http://localhost/implementation191212017/shop.php"><span aria-hidden="true"></span>Collections</a></li>
                    <li><a href="http://localhost/implementation191212017/contact.php"><span aria-hidden="true"></span>Contact Kaya</a></li>
     </ul>
@@ -104,6 +102,11 @@ display: inline-block;
         </div>
     </div>
 </div>
+<div class="cpy-right text-center py-3">
+       <p>© 2022 Kaya. All rights reserved | Design by
+           <a href="http://w3layouts.com"> W3layouts.</a>
+       </p>
+   </div>
 </div>
 
 

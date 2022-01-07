@@ -23,15 +23,13 @@
       <header class="py-sm-3 pt-3 pb-2" id="home">
         
         <div>
-            <h2> <a href="index.php">Kaya</a> </h2>
+            <h1> <a href="index.html">Kaya</a> </h1>
          </div>
  
     
      
      <div class="nav-top-wthree">
          <div class="forms ml-auto">
-                        <nav><a href="http://localhost/implementation191212017/login.php" class="btn"> login</a></nav>
-                        
                      
                      <nav>
          
@@ -39,6 +37,7 @@
                      </nav>
                              <nav> <ul class="menu"><a href="http://localhost/implementation191212017/shop.php">Collections</a></ul></nav>
                             <nav> <ul class="menu"><a href="http://localhost/implementation191212017/contact.php">Contact</a></ul></nav>
+                            <nav></nav>
                             <nav></nav>
                             <nav></nav>
                          
@@ -168,6 +167,7 @@
                 </div>
 
             </div>
+            </section>
             <footer class="footercontainer">
                 <div>
                         <nav>

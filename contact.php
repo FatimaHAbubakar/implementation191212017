@@ -20,13 +20,13 @@
     <!--header and menu-->
       <header class="py-sm-3 pt-3 pb-2" id="home">
       <div>
-            <h2> <a href="index.php">Kaya</a> </h2>
+            <h1> <a href="index.html">Kaya</a> </h1>
          </div>
 
      
      <div class="nav-top-wthree">
          <div class="forms ml-auto">
-                        <nav><a href="http://localhost/implementation191212017/login.php" class="btn"> login</a></nav>
+                        
                         
                      
                      <nav>
@@ -167,9 +167,10 @@
                 </div>
             </div>
         </div>
+         
      <footer>
    </body>
-       
+   
 
 
 

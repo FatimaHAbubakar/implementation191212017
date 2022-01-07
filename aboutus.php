@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/font-great.css">
         <link rel="stylesheet" href="css/style.css">
+        
     </head> 
     <body>
      <div id="pagecontainer">
@@ -20,13 +21,13 @@
     <!--header and menu-->
       <header class="py-sm-3 pt-3 pb-2" id="home">
       <div>
-            <h2> <a href="index.php">Kaya</a> </h2>
+            <h1> <a href="index.html">Kaya</a> </h1>
          </div>
 
      
      <div class="nav-top-wthree">
          <div class="forms ml-auto">
-                        <nav><a href="http://localhost/implementation191212017/login.php" class="btn"> login</a></nav>
+                        
                         
                      
                      <nav>
@@ -35,6 +36,7 @@
                      </nav>
                              <nav> <ul class="menu"><a href="http://localhost/implementation191212017/shop.php">Collections</a></ul></nav>
                             <nav> <ul class="menu"><a href="http://localhost/implementation191212017/contact.php">Contact</a></ul></nav>
+                            <nav></nav>
                             <nav></nav>
                             <nav></nav>
                          
@@ -93,18 +95,22 @@
     </section>
          </div>
         </div>
-        <footer class="footercontainer">
-            <div>
-                    <nav>
-                <?php include 'footer.php';?>
-                    </nav>
-             </div>
-             <div class="move-top text-center mt-lg-4 mt-3">
-                            <a href="#home"><span class="fa fa-angle-double-up" aria-hidden="true"></span></a>
-                        </div>
-                    </div>
-                </div>
-             <footer>
+        <!-- footer-->
+        <nav>
+            <?php include 'footer.php';?>
+    
+        </nav>
+
+<div class="cpy-right text-center py-3">
+       <p>© 2022 Kaya. All rights reserved | Design by
+           <a href="http://w3layouts.com"> W3layouts.</a>
+       </p>
+   </div>
+
+
+
+              
+                  
         </body>
 
 </html>
