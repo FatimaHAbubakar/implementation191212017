@@ -6,7 +6,7 @@
 .container {
     border: 20px;
     padding: auto;
-    margin:auto;
+    margin: 0 0;
     height: auto;
     width: 30%;
     border-color: rgb(231, 213, 206);
@@ -14,7 +14,7 @@ background-color: wheat;
 
 }
 
-}
+
 table{
 	width: 50%;
 	margin: 30px auto;
@@ -31,7 +31,7 @@ thead {
     border-bottom-color: burlywood;
     text-align: center;
     text-transform: capitalize;
-    u
+    
 
 
 }

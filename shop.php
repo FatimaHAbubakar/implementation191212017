@@ -12,9 +12,9 @@
                  window.scrollTo(0,1);
              }
         </script> 
-        <link rel="stylesheet" href="css/bootstrap1.css">
-        <link rel="stylesheet" href="css/font-great1.css">
-        <link rel="stylesheet" href="css/style1.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/font-great.css">
+        <link rel="stylesheet" href="css/style.css">
     </head> 
     <body>
      <div id="pagecontainer">

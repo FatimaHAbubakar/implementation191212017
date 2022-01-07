@@ -1,12 +1,12 @@
-<?php require("server.php");?>
-<?php include("dbconnectl.php"); ?>
+
+
 <html>
 <head>
 <title>login to Kaya</title>
 <link rel="stylesheet" href="css/stylec.css">
-<link rel="stylesheet" href="css/bootstrap1.css">
-<link rel="stylesheet" href="css/font-great1.css">
- <link rel="stylesheet" href="css/style1.css">
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/font-great.css">
+ <link rel="stylesheet" href="css/style.css">
 </head>
   <!--header and menu-->
   <header class="py-sm-3 pt-3 pb-2" id="home">
