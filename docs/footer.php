@@ -80,9 +80,9 @@ display: inline-block;
                 <ul>
                   <li><a href="index.html"><span aria-hidden="true"></span> Home</a></li>
   
-                   <li> <a href="http://localhost/implementation191212017/aboutus.php"><span aria-hidden="true"></span> About</a></li>
-                   <li> <a href="http://localhost/implementation191212017/shop.php"><span aria-hidden="true"></span>Collections</a></li>
-                   <li><a href="http://localhost/implementation191212017/contact.php"><span aria-hidden="true"></span>Contact Kaya</a></li>
+                   <li> <a href="http://localhost/implementation191212017/aboutus.html"><span aria-hidden="true"></span> About</a></li>
+                   <li> <a href="http://localhost/implementation191212017/shop.html"><span aria-hidden="true"></span>Collections</a></li>
+                   <li><a href="http://localhost/implementation191212017/contact.html"><span aria-hidden="true"></span>Contact Kaya</a></li>
     </ul>
     </div>
     </nav>
