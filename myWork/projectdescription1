@@ -3,10 +3,16 @@ My project is a web app named Kaya Online Store. It makes use of php, html, css 
 The project repository: https://github.com/FatimaHAbubakar/implementation191212017.git
 The bootstrap and website template were obtained from https://www.w3schools.com/ , it is shown in the repository.
 
+The project is on an online store that is exclusively for the sale of clothing and clothing accessories. the goal is to develop an e-commerce store where clothing can be bought and traded.
+to provide an efficient and accessible online store for customers.
+there are several features in the system:
+Home page: where users can browse, users can access other pages through it. 
+Products page: where users can view products.
+Contact Us page: where users can contact the store
+About Us page: where users get information on the store
 
-I was working on another web app named Dear,  implemented using react javascript, and css. It makes use of react and react router. But it proved challenging, The project does not have a template but was developed based on a react tutorial youtube video.
-The project repository: https://github.com/FatimaHAbubakar/dear-.git
-Youtube video: ReactJS Project From Scratch - Blog Project - 01 
+
+
 Fatima Abubakar 
 191212017
 Software Engineering
